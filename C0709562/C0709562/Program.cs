@@ -10,6 +10,7 @@ namespace C0709562
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Peter rules the IT Universal");
         }
     }
 }
